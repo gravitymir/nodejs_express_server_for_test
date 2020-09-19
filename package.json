@@ -1,0 +1,28 @@
+{
+    "name": "test",
+    "version": "1.0.0",
+    "description": "test docker",
+    "main": "index.js",
+    "deprecated": false,
+    "dependencies": {
+        "express": "^4.17.1"
+    },
+    "devDependencies": {
+      "express": "^4.17.1"
+    },
+    "repository": {
+      
+    },
+    "keywords": [
+      "first",
+      "docker",
+      "server",
+      "nodejs",
+      "javascript"
+    ],
+    "author": "Andrey Sukhodeev",
+    "license": "MIT",
+    "bugs": {
+    },
+    "homepage": "https://github.com/gravitymir/"
+  }
